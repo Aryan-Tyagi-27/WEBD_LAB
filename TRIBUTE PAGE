@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIBUTE PAGE</title>
+</head>
+<body style="background-color:rgb(187, 218, 202);">
+    <h1 style="text-align: center;">A TRIBUTE TO SRINIVASA RAMANUJAN</h1>
+    <div id="profile">
+        <img src="https://nationaltoday.com/wp-content/uploads/2022/11/456841413-min-1201x834.jpg" alt="Profile Picture"height="500px" />
+    </div>
+   <div style="font-size:20px ;"> <p>Srinivasa Ramanujan Aiyangar[a] (22 December 1887 – 26 April 1920) was an Indian mathematician.<br>
+       <p> Though he had almost no formal training in pure mathematics, he made substantial contributions<br>
+        to mathematical analysis, number theory, infinite series, and continued fractions, including <br>
+         solutions to mathematical problems then considered unsolvable.</p>
+    <h2>SOME INFORMATION ABOUT SRINIVASA RAMANUJAN</h2>
+    Srinivas Ramanujan was an Indian mathematician renowned for his extraordinary contributions to<br>
+    number theory and mathematical analysis. Born in 1887, he was largely self-taught and developed<br>
+    many groundbreaking results independently. His work attracted the attention of British<br>
+    mathematician G.H. Hardy, leading to a fruitful collaboration at Cambridge University. Despite his<br>
+    short life—he died at 32—Ramanujan's innovative theorems and formulas have had a lasting impact<br>
+    on mathematics, continuing to inspire researchers today.</p> </div>
+    <h3 style="font-size: 30px;">ACHIEVEMENTS</h3>
+   <div> <ol style="font-size: 20px;">
+   <li> Developed groundbreaking results in number theory.</li>
+   <li> Collaborated with G.H. Hardy, advancing mathematical analysis.</li>
+   <li> Introduced mock theta functions, influencing modern mathematics.</li>
+   <li>Discovered efficient infinite series for π (pi) calculation.</li>
+    <li>Produced influential notebooks with advanced mathematical results.</li>
+     </ol>
+     <button style="width:500px" > <a href="https://en.wikipedia.org/wiki/Srinivasa_Ramanujan" target="_blank">CLICK FOR MORE INFO ABOUT GREAT RAMANUJAN</a></button>
+   
+    </div>
+</body>
+</html>
