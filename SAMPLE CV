@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #profile img {
+            width: 150px;  
+            height: 150px;
+            border-radius: 50%; 
+            object-fit: cover;  
+        }
+        table {
+          width: 50%;
+      border-collapse: collapse;
+      
+      
+    }
+    th, td {
+      border: 5px solid rgba(208, 52, 52, 0.592);
+      padding: 10px;
+      text-align: center;
+      width:1000px,500px;
+      
+    }
+    th {
+      background-color: #0de9b2;
+      /* border-style:double; */
+      
+      
+    }
+    td {
+      background-color: #ecf3ed;
+    }
+    button {
+          border-style: dotted;
+         border-top-left-radius: 10px 10px 10px;
+         border-color: black;
+    }
+    </style>
+</head>
+<body>
+    <h1>ARYAN TYAGI</h1>
+    <div id="profile">
+        <img src="https://images.immediate.co.uk/production/volatile/sites/3/2023/02/Best-cricket-players-2024-283d079.jpg" alt="Profile Picture" width="200px" />
+    </div>
+    <div>
+        <p><b>Email:</b> mraryantyagiji@gmail.com</p>
+        <p><b>Phone:</b> 9871070621</p>
+        <p><b>LinkedIn:</b> <a   href="https://www.linkedin.com" target="_blank"> <button>LinkedIn Profile </button></a></p>
+    </div>
+    <h2>My Achievements</h2>
+  <table>
+    
+    <tr>
+      <th style="width: 70%;">Achievement</th>
+      <th style="width: 790%;">Year</th>
+    </tr>
+    <tr>
+      <td>Completed 12th</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Completed Web Development Certification</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>2nd year</td>
+      <td>2024</td>
+    </tr>
+  </table>
+</body>
+</html>
